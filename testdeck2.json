@@ -1,0 +1,18 @@
+{"deckname":"Spells",
+ "viewable":"no",
+ "cards":[
+    {
+	"name":"Lichbane", 
+	"quantity":"1", 
+	"type":"Spell"	
+	"cost":"3", 
+	"text":"Directly deal 1 damage to one player"	
+	},
+    {
+	"name":"Fireball", 
+	"quantity":"5", 
+	"type":"Spell"	
+	"cost":"1", 
+	"text":"Deal 1 damage"	
+	}
+]}

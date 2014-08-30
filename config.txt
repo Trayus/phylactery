@@ -1,0 +1,3 @@
+testdeck.json
+testdeck2.json
+discard.json

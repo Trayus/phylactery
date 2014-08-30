@@ -1,0 +1,18 @@
+{"deckname":"Template",
+ "viewable":"no",
+ "cards":[
+    {
+	"name":"card1", 
+	"quantity":"1", 
+	"type":"Some String"	
+	"cost":"Some String", 
+	"text":"Some String"	
+	},
+    {
+	"name":"card2", 
+	"quantity":"2", 
+	"type":"Some String"	
+	"cost":"Some String", 
+	"text":"Some String"	
+	}
+]}

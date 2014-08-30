@@ -1,0 +1,18 @@
+{"deckname":"Phylacteries",
+ "viewable":"no",
+ "cards":[
+    {
+	"name":"Holy Handgrenade", 
+	"quantity":"1", 
+	"type":"Phylactery"	
+	"cost":"n/a", 
+	"text":"If this gets destroyed, deal 2 damage to all other entities in the game."	
+	},
+    {
+	"name":"Dowsing Rod", 
+	"quantity":"1", 
+	"type":"Phylactery"	
+	"cost":"n/a", 
+	"text":"Draw phase: If no one attacked you since your last turn, draw an extra spell."	
+	}
+]}

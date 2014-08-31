@@ -14,12 +14,5 @@
 	"type":"Spell",
 	"cost":"1", 
 	"text":"Deal 1 damage"	
-	},
-    {
-	"name":"Relic", 
-	"quantity":"2", 
-	"type":"Spell",
-	"cost":"2", 
-	"text":"Put your phylactery in the deck - draw a new phylactery."	
 	}
 ]}

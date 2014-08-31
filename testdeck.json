@@ -10,7 +10,7 @@
 	},
     {
 	"name":"Dowsing Rod", 
-	"quantity":"1", 
+	"quantity":"2", 
 	"type":"Phylactery",
 	"cost":"n/a", 
 	"text":"Draw phase: If no one attacked you since your last turn, draw an extra spell."	

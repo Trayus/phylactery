@@ -1,0 +1,328 @@
+{
+    "deckname": "protobending cards",
+	"viewable": "yes",
+    "cards": [
+        {
+            "name": "Fireball", 
+            "cost": "2 / B^C > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"3 Damage, 3 Accuracy"
+        },
+        {
+            "name": "Jab", 
+            "cost": "0 / C > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage, 2 Accuracy"
+        },
+        {
+            "name": "Flame Wing", 
+            "cost": "2 / B^C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"2 Damage, 5 Accuracy"
+        },
+        {
+            "name": "Fire Dragon", 
+            "cost": "7 / C > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"7 Damage, Unblockable, 5 Accuracy"
+        },
+        {
+            "name": "Firebreath", 
+            "cost": "2 / C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"3 Damage, 4 Accuracy"
+        },
+        {
+            "name": "Ice Lance", 
+            "cost": "2 / A^B^C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"2 Damage, 4 Accuracy"
+        },
+        {
+            "name": "Hosedown", 
+            "cost": "3 / B > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"3 Damage (1 unblockable), 4 Accuracy"
+        },
+        {
+            "name": "Grab Blood", 
+            "cost": "7 / B > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"4 Damage, Knockdown, 5 Accuracy"
+        },
+        {
+            "name": "Drink Their Blood", 
+            "cost": "5 / B > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"3 Damage, 3 Accuracy. You gain energy equal to the amount of damage this deals when it resolves."
+        },
+        {
+            "name": "Thin The Air", 
+            "cost": "3 / B > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"4 Damage. Unblockable. Undodgeable. You take 2 damage."
+        },
+        {
+            "name": "Make Them Gasp", 
+            "cost": "3 / A^C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"4 Damage. 5 Accuracy. If you take damage before or while this resolves, this attack deals no damage."
+        },
+        {
+            "name": "Backfire", 
+            "cost": "3 / B > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage for every energy the opponent has when this resolves. 3 Accuracy."
+        },
+        {
+            "name": "Earthquake", 
+            "cost": "4 / A^B > A",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage. Knockdown. 5 Accuracy. Unblockable."
+        },
+        {
+            "name": "Catapult", 
+            "cost": "3 / A^C > A",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage. Knockdown. 3 Accuracy. Unblockable."
+        },
+        {
+            "name": "Throw Rock", 
+            "cost": "4 / A^C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"4 Damage. Knocks down if it deals 3 (or more) damage. 3 Accuracy."
+        },
+        {
+            "name": "Stone Shrapnel", 
+            "cost": "3 / A^C > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"3 Damage. 4 Accuracy."
+        },
+        {
+            "name": "Sandblast", 
+            "cost": "5 / A^C > C",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage. 5 Accuracy. Unblockable. If this deals damage when it resolves, next combat the opponent must reveal their combat card first."
+        },
+        {
+            "name": "Unbalance", 
+            "cost": "1 / B > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage. Knockdown (unless it's blocked or dodged). 5 Accuracy."
+        },
+        {
+            "name": "Mixed Bolt", 
+            "cost": "3 / ?* > ?*",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"2 Damage. Knockdown (unless it's blocked or dodged). 3 Accuracy. You must end in the same state you started."
+        },
+        {
+            "name": "Overload", 
+            "cost": "1 / A > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"1 Damage + 1 Damage for every 2 energy you have when this resolves. Knockdown if this deals at least 4 damage. 3 Accuracy."
+        },
+        {
+            "name": "Shock", 
+            "cost": "1 / C > B",
+            "quantity":"1",
+            "type":"Attack",
+            "text":"2 Damage. 2 Accuracy."
+        },
+        {
+            "name": "Outburst", 
+            "cost": "3 / A^B^C > A",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+6 Energy."
+        },
+        {
+            "name": "Rage", 
+            "cost": "A^B > B",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+2 Energy. If you take damage in the combat you use Rage, get +4 energy instead."
+        },
+        {
+            "name": "Unrelenting", 
+            "cost": "A^C > C",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+2 Energy. If you have already dealt damage this round, get +4 energy instead."
+        },
+        {
+            "name": "Sense The Air", 
+            "cost": "A^C > B",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+3 Energy."
+        },
+        {
+            "name": "Deep Breath", 
+            "cost": "A^B^C > A",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+2 Energy."
+        },
+        {
+            "name": "Sense Heartbeat", 
+            "cost": "B > ?",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+2 Energy."
+        },
+        {
+            "name": "Be Still", 
+            "cost": "?* > ?*",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+3 Energy. *You must end in the same state you started."
+        },
+        {
+            "name": "Manipulate Liquids", 
+            "cost": "C > B",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+4 Energy."
+        },
+        {
+            "name": "Manipulate Pebbles", 
+            "cost": "C > A",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+4 Energy."
+        },
+        {
+            "name": "Manipulate The Air", 
+            "cost": "A > B",
+            "quantity":"1",
+            "type":"Charge",
+            "text":"+4 Energy."
+        },
+        {
+            "name": "Firewall", 
+            "cost": "1 / A^C > A",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-1 Damage. If you still take damage, deal 1 damage."
+        },
+        {
+            "name": "Go To Ground", 
+            "cost": "A^B^C > C",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-3 Damage."
+        },
+        {
+            "name": "Rockwall", 
+            "cost": "A > A",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-4 Damage."
+        },
+        {
+            "name": "Makeshift Stone Cover", 
+            "cost": "1 / A^B^C > A",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-3 Damage."
+        },
+        {
+            "name": "Dome Shield", 
+            "cost": "3 / A^B > A",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-8 Damage."
+        },
+        {
+            "name": "Stabilize", 
+            "cost": "B > A",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-1 Damage. If you would be knocked down, ignore that."
+        },
+        {
+            "name": "Redirect", 
+            "cost": "C > B",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-2 Damage. If you don't take any damage, deal 1 damage."
+        },
+        {
+            "name": "Water Wall", 
+            "cost": "A^B^C > C",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-1 Damage. Gain 1 energy."
+        },
+        {
+            "name": "Water Column", 
+            "cost": "A^B^C > B",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-2 Damage. If you don't take any damage, gain 3 energy."
+        },
+        {
+            "name": "Ice Wall", 
+            "cost": "B^C > B",
+            "quantity":"1",
+            "type":"Block",
+            "text":"-3 Damage."
+        },
+        {
+            "name": "Blast off", 
+            "cost": "3 / A^B^C > ?",
+            "quantity":"1",
+            "type":"Dodge",
+            "text":""
+        },
+        {
+            "name": "Launch", 
+            "cost": "1 / A^B^C > A",
+            "quantity":"1",
+            "type":"Dodge",
+            "text":""
+        },
+        {
+            "name": "Cartwheel", 
+            "cost": "B > ?",
+            "quantity":"1",
+            "type":"Dodge",
+            "text":""
+        },
+        {
+            "name": "Combat Roll", 
+            "cost": "A > ?",
+            "quantity":"1",
+            "type":"Dodge",
+            "text":""
+        },
+        {
+            "name": "High Jump", 
+            "cost": "C > ?",
+            "quantity":"1",
+            "type":"Dodge",
+            "text":""
+        }
+    ]
+}

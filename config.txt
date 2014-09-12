@@ -1,3 +1,2 @@
-testdeck.json
-testdeck2.json
+protobendingcards.json
 discard.json

@@ -1,0 +1,97 @@
+{
+    "deckname": "BasicBending",
+	"viewable": "yes",
+    "cards": [
+        {
+            "name": "Heavy Attack", 
+            "cost": "-4",
+            "quantity":"2",
+            "type":"Attack - 5",
+            "text":""
+        },
+        {
+            "name": "Strong Attack", 
+            "cost": "-3",
+            "quantity":"2",
+            "type":"Attack - 4",
+            "text":""
+        },
+        {
+            "name": "Attack", 
+            "cost": "-2",
+            "quantity":"2",
+            "type":"Attack - 3",
+            "text":""
+        },
+        {
+            "name": "Light Attack", 
+            "cost": "-1",
+            "quantity":"2",
+            "type":"Attack - 2",
+            "text":""
+        },
+        {
+            "name": "Weak Attack", 
+            "cost": "0",
+            "quantity":"2",
+            "type":"Attack - 1",
+            "text":""
+        },
+        {
+            "name": "Focused Avoid", 
+            "cost": "-2",
+            "quantity":"2",
+            "type":"Avoid - 5",
+            "text":""
+        },
+        {
+            "name": "Wary Avoid", 
+            "cost": "-1",
+            "quantity":"2",
+            "type":"Avoid - 4",
+            "text":""
+        },
+        {
+            "name": "Balanced Avoid", 
+            "cost": "0",
+            "quantity":"2",
+            "type":"Avoid - 3",
+            "text":""
+        },
+        {
+            "name": "Charging Avoid", 
+            "cost": "+1",
+            "quantity":"2",
+            "type":"Avoid - 2",
+            "text":""
+        },
+        {
+            "name": "Growth Avoid", 
+            "cost": "+2",
+            "quantity":"2",
+            "type":"Avoid - 1",
+            "text":""
+        },
+        {
+            "name": "Anti-defense Break", 
+            "cost": "0",
+            "quantity":"2",
+            "type":"Break - 5",
+            "text":""
+        },
+        {
+            "name": "Regular Break", 
+            "cost": "+2",
+            "quantity":"3",
+            "type":"Break - 3",
+            "text":""
+        },
+        {
+            "name": "Charging Break", 
+            "cost": "+4",
+            "quantity":"2",
+            "type":"Break - 1",
+            "text":""
+        }
+    ]
+}

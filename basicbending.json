@@ -75,7 +75,7 @@
         {
             "name": "Anti-defense Break", 
             "cost": "0",
-            "quantity":"2",
+            "quantity":"3",
             "type":"Break - 5",
             "text":""
         },
@@ -89,7 +89,7 @@
         {
             "name": "Charging Break", 
             "cost": "+4",
-            "quantity":"2",
+            "quantity":"3",
             "type":"Break - 1",
             "text":""
         }

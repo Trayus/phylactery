@@ -76,14 +76,14 @@
             "name": "Anti-defense Break", 
             "cost": "0",
             "quantity":"3",
-            "type":"Break - 5",
+            "type":"Break - 3",
             "text":""
         },
         {
             "name": "Regular Break", 
             "cost": "+2",
             "quantity":"3",
-            "type":"Break - 3",
+            "type":"Break - 2",
             "text":""
         },
         {

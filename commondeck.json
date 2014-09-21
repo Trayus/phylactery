@@ -62,7 +62,7 @@
 	"quantity":"2", 
 	"type":"Spell",
 	"cost":"4", 
-	"text":"Choose a phylactery from the deck and replace a held phylactery with it (the replaced card is shuffled into the deck)"	
+	"text":"Choose a phylactery from the deck and replace a held phylactery with it (the replaced card is shuffled into the deck). Only cast during your turn."	
 	},
 	{
 	"name":"Life Swap", 

@@ -1,2 +1,1 @@
-basicbending.json
-discard.json
+commondeck.jsondiscard.jsonphylacterydeck.jsonphylacterydiscard.jsonsouldeck.json

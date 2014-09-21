@@ -1,74 +1,75 @@
 {"deckname":"Common",
  "viewable":"yes",
  "cards":[
-    {
-	"name":"Firebolt", 
-	"quantity":"8", 
-	"type":"Attack",
-	"cost":"1 (3 damage)", 
-	"text":"Only cast on your turn"	
-	},
-    {
-	"name":"Fireball", 
-	"quantity":"7", 
-	"type":"Attack",
-	"cost":"2 (5 damage)", 
-	"text":"Only cast on your turn"	
-	},
-	{
-	"name":"Fireblast 
-	"quantity":"5", 
-	"type":"Attack",
-	"cost":"3 (8 damage)", 
-	"text":"Only cast on your turn"	
-	},
-	{
-	"name":"Block", 
-	"quantity":"4", 
-	"type":"Spell",
-	"cost":"1", 
-	"text":"Nullifies one attack"	
-	},
-	{
-	"name":"Bounce", 
-	"quantity":"4", 
-	"type":"Spell",
-	"cost":"2", 
-	"text":"Redirect an attack aimed at you"	
-	},
-	{
-	"name":"Redirect", 
-	"quantity":"4", 
-	"type":"Spell",
-	"cost":"3", 
-	"text":"Redirect any attack"	
-	},
-	{
-	"name":"Phylactery Swap", 
-	"quantity":"2", 
-	"type":"Spell",
-	"cost":"5", 
-	"text":"Swap the held phylacteries of two players"	
-	},
-	{
-	"name":"Mana Charge", 
-	"quantity":"2", 
-	"type":"Spell",
-	"cost":"0", 
-	"text":"Gain 3 mana"	
-	},
-	{
-	"name":"Phylactery Mulligan", 
-	"quantity":"2", 
-	"type":"Spell",
-	"cost":"4", 
-	"text":"Choose a phylactery from the deck and replace a held phylactery with it (the replaced card is shuffled into the deck)"	
-	},
-	{
-	"name":"Life Swap", 
-	"quantity":"2", 
-	"type":"Spell",
-	"cost":"4", 
-	"text":"Swap life totals with another player"	
-	}
-]}
+		{
+			"name":"Firebolt", 
+			"quantity":"8", 
+			"type":"Attack",
+			"cost":"1 (3 damage)", 
+			"text":"Only cast on your turn"	
+		},
+		{
+			"name":"Fireball", 
+			"quantity":"7", 
+			"type":"Attack",
+			"cost":"2 (5 damage)", 
+			"text":"Only cast on your turn"	
+		},
+		{
+			"name":"Fireblast",
+			"quantity":"5", 
+			"type":"Attack",
+			"cost":"3 (8 damage)", 
+			"text":"Only cast on your turn"	
+		},
+		{
+			"name":"Block", 
+			"quantity":"4", 
+			"type":"Spell",
+			"cost":"1", 
+			"text":"Nullifies one attack"	
+		},
+		{
+			"name":"Bounce", 
+			"quantity":"4", 
+			"type":"Spell",
+			"cost":"2", 
+			"text":"Redirect an attack aimed at you"	
+		},
+		{
+			"name":"Redirect", 
+			"quantity":"4", 
+			"type":"Spell",
+			"cost":"3", 
+			"text":"Redirect any attack"	
+		},
+		{
+			"name":"Phylactery Swap", 
+			"quantity":"2", 
+			"type":"Spell",
+			"cost":"5", 
+			"text":"Swap the held phylacteries of two players"	
+		},
+		{
+			"name":"Mana Charge", 
+			"quantity":"2", 
+			"type":"Spell",
+			"cost":"0", 
+			"text":"Gain 3 mana"	
+		},
+		{
+			"name":"Phylactery Mulligan", 
+			"quantity":"2", 
+			"type":"Spell",
+			"cost":"4", 
+			"text":"Choose a phylactery from the deck and replace a held phylactery with it (the replaced card is shuffled into the deck)"	
+		},
+		{
+			"name":"Life Swap", 
+			"quantity":"2", 
+			"type":"Spell",
+			"cost":"4", 
+			"text":"Swap life totals with another player"	
+		}
+	]
+}

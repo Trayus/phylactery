@@ -15,60 +15,70 @@
 	"cost":"HELD", 
 	"text":""	
 	},
+	{
 	"name":"BCA", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"BSQ", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"BSK", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"BSA", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RDQ", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RDK", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RDA", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RHQ", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RHK", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
 	"text":""	
 	},
+    {
 	"name":"RHA", 
 	"quantity":"1", 
 	"type":"Phylactery",

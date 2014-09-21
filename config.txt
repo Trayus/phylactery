@@ -1,1 +1,5 @@
-commondeck.jsondiscard.jsonphylacterydeck.jsonphylacterydiscard.jsonsouldeck.json
+commondeck.json
+discard.json
+phylacterydeck.json
+phylacterydiscard.json
+souldeck.json

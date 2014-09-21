@@ -1,0 +1,74 @@
+{"deckname":"Common",
+ "viewable":"yes",
+ "cards":[
+    {
+	"name":"Firebolt", 
+	"quantity":"8", 
+	"type":"Attack",
+	"cost":"1 (3 damage)", 
+	"text":"Only cast on your turn"	
+	},
+    {
+	"name":"Fireball", 
+	"quantity":"7", 
+	"type":"Attack",
+	"cost":"2 (5 damage)", 
+	"text":"Only cast on your turn"	
+	},
+	{
+	"name":"Fireblast 
+	"quantity":"5", 
+	"type":"Attack",
+	"cost":"3 (8 damage)", 
+	"text":"Only cast on your turn"	
+	},
+	{
+	"name":"Block", 
+	"quantity":"4", 
+	"type":"Spell",
+	"cost":"1", 
+	"text":"Nullifies one attack"	
+	},
+	{
+	"name":"Bounce", 
+	"quantity":"4", 
+	"type":"Spell",
+	"cost":"2", 
+	"text":"Redirect an attack aimed at you"	
+	},
+	{
+	"name":"Redirect", 
+	"quantity":"4", 
+	"type":"Spell",
+	"cost":"3", 
+	"text":"Redirect any attack"	
+	},
+	{
+	"name":"Phylactery Swap", 
+	"quantity":"2", 
+	"type":"Spell",
+	"cost":"5", 
+	"text":"Swap the held phylacteries of two players"	
+	},
+	{
+	"name":"Mana Charge", 
+	"quantity":"2", 
+	"type":"Spell",
+	"cost":"0", 
+	"text":"Gain 3 mana"	
+	},
+	{
+	"name":"Phylactery Shuffle", 
+	"quantity":"2", 
+	"type":"Spell",
+	"cost":"4", 
+	"text":"Chosen player shuffles their held phylactery back into the deck and draws a new one to hold."	
+	},
+	{
+	"name":"Life Swap", 
+	"quantity":"2", 
+	"type":"Spell",
+	"cost":"4", 
+	"text":"Swap life totals with another player"	
+	}
+]}

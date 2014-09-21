@@ -58,11 +58,11 @@
 	"text":"Gain 3 mana"	
 	},
 	{
-	"name":"Phylactery Shuffle", 
+	"name":"Phylactery Mulligan", 
 	"quantity":"2", 
 	"type":"Spell",
 	"cost":"4", 
-	"text":"Chosen player shuffles their held phylactery back into the deck and draws a new one to hold."	
+	"text":"Choose a phylactery from the deck and replace a held phylactery with it (the replaced card is shuffled into the deck)"	
 	},
 	{
 	"name":"Life Swap", 

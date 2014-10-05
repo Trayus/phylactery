@@ -2,13 +2,6 @@
  "viewable":"yes",
  "cards":[
     {
-	"name":"BCQ", 
-	"quantity":"1", 
-	"type":"Phylactery",
-	"cost":"HELD", 
-	"text":""	
-	},
-    {
 	"name":"BCK", 
 	"quantity":"1", 
 	"type":"Phylactery",
@@ -17,13 +10,6 @@
 	},
 	{
 	"name":"BCA", 
-	"quantity":"1", 
-	"type":"Phylactery",
-	"cost":"HELD", 
-	"text":""	
-	},
-    {
-	"name":"BSQ", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 
@@ -44,13 +30,6 @@
 	"text":""	
 	},
     {
-	"name":"RDQ", 
-	"quantity":"1", 
-	"type":"Phylactery",
-	"cost":"HELD", 
-	"text":""	
-	},
-    {
 	"name":"RDK", 
 	"quantity":"1", 
 	"type":"Phylactery",
@@ -59,13 +38,6 @@
 	},
     {
 	"name":"RDA", 
-	"quantity":"1", 
-	"type":"Phylactery",
-	"cost":"HELD", 
-	"text":""	
-	},
-    {
-	"name":"RHQ", 
 	"quantity":"1", 
 	"type":"Phylactery",
 	"cost":"HELD", 

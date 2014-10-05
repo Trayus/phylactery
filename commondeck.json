@@ -19,15 +19,15 @@
 	"name":"Fireblast" 
 	"quantity":"5", 
 	"type":"Attack",
-	"cost":"3 (8 damage)", 
+	"cost":"3 (10 damage)", 
 	"text":"Only cast on your turn"	
 	},
 	{
-	"name":"Block", 
+	"name":"Taunt", 
 	"quantity":"4", 
 	"type":"Spell",
-	"cost":"1", 
-	"text":"Nullifies one attack"	
+	"cost":"0", 
+	"text":"Make an attack target you"	
 	},
 	{
 	"name":"Bounce", 
@@ -55,7 +55,7 @@
 	"quantity":"2", 
 	"type":"Spell",
 	"cost":"0", 
-	"text":"Gain 3 mana"	
+	"text":"Gain 3 mana. Lose 2 at the beginning of your next turn."	
 	},
 	{
 	"name":"Phylactery Mulligan", 
